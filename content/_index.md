@@ -337,7 +337,7 @@ reg = HistGradientBoostingRegressor(categorical_features=categorical_mask)
 
 {{< figure src="images/scikit-learn-logo.png" width="200px">}}
 
-**scikit-learn 0.24rc** has been released!
+**scikit-learn 0.24rc** has been released! [Release highlights](https://scikit-learn.org/dev/auto_examples/release_highlights/plot_release_highlights_0_24_0.html)
 
 ```bash
 pip install scikit-learn==0.24.0rc
