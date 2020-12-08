@@ -73,7 +73,7 @@ Thomas J. Fan
 
 
 {{% g 2 %}}
-- Organized by Reshama Shaikh of Data Umbrella to increase the participation of underrepresented persons in data science
+- Organized by Reshama Shaikh of [Data Umbrella](https://www.dataumbrella.org) to increase the participation of underrepresented persons in data science
 - Participants from ten different countries joined
 - The attendees were evenly split by gender
 - For more information, [see the sprint report](https://reshamas.github.io/data-umbrella-scikit-learn-online-sprint-report/)
