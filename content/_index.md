@@ -34,7 +34,7 @@ Thomas J. Fan
 
 # Contents 📖
 
-1. Organizational Updates @ scikit-learn
+1. Community Updates @ scikit-learn
 2. Advances in scikit-learn
 3. Improvements of the new fast gradient boosting models
 
@@ -42,7 +42,7 @@ Thomas J. Fan
 
 {{% section %}}
 
-# Organizational Updates @ scikit-learn
+# Community Updates @ scikit-learn
 {{< figure src="images/scikit-learn-logo.png" width="300px">}}
 
 ---
@@ -343,7 +343,7 @@ reg = HistGradientBoostingRegressor(categorical_features=categorical_mask)
 pip install scikit-learn==0.24.0rc
 ```
 
-1. Organizational Updates @ scikit-learn
+1. Community Updates @ scikit-learn
 2. Advances in scikit-learn
 3. Improvements of the new fast gradient boosting models
 
