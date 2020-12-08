@@ -197,7 +197,7 @@ from sklearn.model_selection import HalvingRandomSearchCV
 
 ---
 
-# HTML representation of HTML (default)
+# HTML representation of Estimators (default)
 
 ```python
 clf
