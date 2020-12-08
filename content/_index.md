@@ -67,6 +67,28 @@ Thomas J. Fan
 
 ---
 
+# Data Umbrella Sprint on 2020-06-20
+
+{{% grid %}}
+
+
+{{% g 2 %}}
+- Organized by Reshama Shaikh of Data Umbrella to increase the participation of underrepresented persons in data science
+- Participants from ten different countries joined
+- The attendees were evenly split by gender
+- For more information, [see the sprint report](https://reshamas.github.io/data-umbrella-scikit-learn-online-sprint-report/)
+{{% /g %}}
+
+{{% g 1 %}}
+
+{{< figure src="images/data-umberalla.gif" height="300px" >}}
+
+{{% /g %}}
+
+{{% /grid %}}
+
+---
+
 # New core developer: @lorentzenchr
 
 - Lead Generalized Linear Models development:
@@ -106,6 +128,7 @@ from sklearn.linear_model import GammaRegressor
 {{% /section %}}
 
 ---
+
 
 {{% section %}}
 

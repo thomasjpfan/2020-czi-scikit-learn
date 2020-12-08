@@ -23,3 +23,4 @@ highlight_theme = "monokai"
 width = 1280
 height = 720
 transition_speed = "fast"
+pdfMaxPagesPerSlide = 1
